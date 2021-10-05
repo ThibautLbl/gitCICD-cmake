@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
-#francoisfz
-#Set the project nameazafazf
+
+#Set the project name
 project(FirstCMake VERSION 1.0)
 
 #export configuration to source code
