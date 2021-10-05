@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-#lol
+#lo
 #Set the project name
 project(FirstCMake VERSION 1.0)
 
