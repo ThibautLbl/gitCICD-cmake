@@ -1,0 +1,4 @@
+// options and settings exported 
+// to source code
+#define FirstCMake_VERSION_MAJOR @FirstCMake_VERSION_MAJOR@ 
+#define FirstCMake_VERSION_MINOR @FirstCMake_VERSION_MINOR@
