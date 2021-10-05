@@ -1,5 +1,0 @@
-O:/Geol_num/SoftwareDev/CMake/first_CMake/tests/build/CMakeFiles/test_hello.dir
-O:/Geol_num/SoftwareDev/CMake/first_CMake/tests/build/CMakeFiles/test_version.dir
-O:/Geol_num/SoftwareDev/CMake/first_CMake/tests/build/CMakeFiles/RUN_TESTS.dir
-O:/Geol_num/SoftwareDev/CMake/first_CMake/tests/build/CMakeFiles/ALL_BUILD.dir
-O:/Geol_num/SoftwareDev/CMake/first_CMake/tests/build/CMakeFiles/ZERO_CHECK.dir
